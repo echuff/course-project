@@ -13,7 +13,7 @@ triaxial acceleration from the accelerometer (total acceleration),the estimated 
 and triangular triaxial angular velocity from the gyroscope, along with a 561-feature vector with 
 time and frequency domain variables. 
 
-Each of the 10,299 observations of the 516-feature vectors represents a single reading of the 
+Each of the 10,299 observations of the 561-feature vectors represents a single reading of the 
 processed, time-windowed sensored results for a single subject engaged in a specific motion activity. 
 Out of the 10,299 total observations, the number of observations for a specific person and activity 
 ranged from 36 to 95, depending on the person and activity. The extract selects those elements of 
