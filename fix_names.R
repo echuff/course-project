@@ -1,4 +1,4 @@
-# This function standardizes a mean or std variable name by removing the existing reference to "mean" or "std"
+# This function will standardize a mean or std variable name by removing the existing reference to "mean" or "std"
 # in the name and adding "_mean" or "_std" at the end of the name. If the name does not reference the word "mean" or
 # "std", the function returns the name unchanged.
 
